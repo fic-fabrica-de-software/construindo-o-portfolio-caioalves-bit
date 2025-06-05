@@ -4,8 +4,11 @@ body {
 
 img{
     width: 100px;
+    text-align: right;
 }
 
 .azul{
-    background-color:rgb(144, 144, 224);
+    background-color:rgb(144, 144, 224);  
+    display: flex;
+    gap: 60px;
 }
