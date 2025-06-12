@@ -8,7 +8,9 @@ img{
 }
 
 .azul{
+    margin-top: 100px;
     background-color:rgb(144, 144, 224);  
     display: flex;
     gap: 60px;
+    padding-bottom: 350px;
 }
